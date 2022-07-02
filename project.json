@@ -1,0 +1,35 @@
+{
+  "assets": [],
+  "build": {
+    "build_id": "4F77DE8D-33",
+    "build_number": 33,
+    "build_time": 1656783607180,
+    "release": false
+  },
+  "encryptLevel": 3,
+  "useFeatures": [],
+  "icon": "res/icon.png",
+  "launchConfig": {
+    "displaySplash": true,
+    "hideLogs": false,
+    "splashIcon": "res/splashIcon.png",
+    "splashText": "欢迎使用",
+    "stableMode": true
+  },
+  "main": "main.js",
+  "name": "大懒猪辅助",
+  "optimization": {
+    "removeAccessibilityService": false,
+    "removeOpenCv": false,
+    "unusedResources": false
+  },
+  "packageName": "com.zwk123.dalanzhu",
+  "permissionConfig": {
+    "requestListOnStartup": [
+      "android.permission.WRITE_EXTERNAL_STORAGE"
+    ]
+  },
+  "scripts": {},
+  "versionCode": 12,
+  "versionName": "12"
+}
